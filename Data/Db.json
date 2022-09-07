@@ -1,0 +1,17 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "This is my first blog on how to create react app on mobile",
+      "author": "John Glenn Castillon",
+      "id": 1
+    },
+    
+    {
+      "title": "My Second Blog",
+      "body": "This is my second blog on how to create react app on mobile",
+      "author": "Glenn Castillon",
+      "id": 2
+    }
+    ]
+}
