@@ -6,12 +6,29 @@
       "author": "John Glenn Castillon",
       "id": 1
     },
-    
     {
       "title": "My Second Blog",
       "body": "This is my second blog on how to create react app on mobile",
       "author": "Glenn Castillon",
       "id": 2
+    },
+    {
+      "title": "How to create react app using androis phone",
+      "body": "This my third blog",
+      "author": "Glenn",
+      "id": 3
+    },
+    {
+      "title": "How develop website using mobile phone",
+      "body": "Hey this is my blog about developing website using mobile phone",
+      "author": "Glenn",
+      "id": 4
+    },
+    {
+      "title": "El Filibusterismo",
+      "body": "Ang Hindi marunong mag mahal sa sariling wika, ay masahol pa sa malansang isda",
+      "author": "Jose Rizal",
+      "id": 5
     }
-    ]
+  ]
 }
